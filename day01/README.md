@@ -6,7 +6,7 @@
 
 
 
-[All Projects](https://github.com/10xOXR/JavaScript30/blob/master/README.md) | [Next #02 >>]()
+[All Projects](https://github.com/10xOXR/JavaScript30/blob/master/README.md) | [Next #02 >>](https://github.com/10xOXR/JavaScript30/tree/master/day02)
 
 ---
 

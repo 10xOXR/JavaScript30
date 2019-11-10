@@ -5,4 +5,6 @@
 ## **30 Days of Vanilla JavaScript Challenges**
 ---
 
-[DAY 01 - JavaScript Drum Kit](https://github.com/10xOXR/JavaScript30/blob/master/day01/README.md)
+[DAY 01 - JavaScript Drum Kit](https://github.com/10xOXR/JavaScript30/blob/master/day01/)
+
+[DAY 02 - JavaScript Clock](https://github.com/10xOXR/JavaScript30/blob/master/day02/)
