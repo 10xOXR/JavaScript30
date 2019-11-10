@@ -1,6 +1,6 @@
 <img src="https://javascript30.com/images/JS3-social-share.png" alt="JavaScript30" width="700">
 
-# **JavaScript30**
+# [JavaScript30](https://javascript30.com/)
 
 ## **30 Days of Vanilla JavaScript Challenges**
 ---
