@@ -14,5 +14,4 @@
 
 ### Media
 
-- [pixabay.com](https://pixabay.com/vectors/equalizer-beat-dance-fiesta-153212/) - wallpaper
-- [99sounds.org](http://99sounds.org/drum-samples/) - sounds
+- [Shutterstock](https://ak4.picdn.net/shutterstock/videos/4179554/thumb/1.jpg) - Wallpaper
