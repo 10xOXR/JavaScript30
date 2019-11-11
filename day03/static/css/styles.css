@@ -1,22 +1,59 @@
+@font-face {
+    font-family: "Microgramma Bold Ext";
+    src: url("../fonts/microgramma-webfont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Microgramma Regular";
+    src: url("../fonts/microgrammadeemedext_regular-webfont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 :root {
     --base: #ffc600;
-    --spacing: 10px;
-    --blur: 10px;
+    --padding: 10px;
+    --blur: 5px;
+    --width: 500px;
+    --rotate: 0deg;
 }
 
 body {
     text-align: center;
-    background: #193549;
+    background: 
+    linear-gradient(
+    rgba(0, 0, 0, 0.7), 
+    rgba(0, 0, 0, 0.7)
+    ), url("../img/mw.jpg");
+    background-size: cover;
     color: white;
-    font-family: 'helvetica neue', sans-serif;
     font-weight: 100;
     font-size: 50px;
 }
 
+h2 {
+    font-family: "Microgramma Bold Ext";
+    font-size: 1.5em;;
+}
+
+label {
+    font-family: "Microgramma Regular";
+}
+
+h2,
+label {
+    text-shadow: 0 0 20px var(--base);
+}
+
 img {
-    padding: var(--spacing);
+    padding: var(--padding);
     background: var(--base);
     filter: blur(var(--blur));
+    width: var(--width);
+    transform: rotate(var(--rotate));
 }
 
 .hl {
