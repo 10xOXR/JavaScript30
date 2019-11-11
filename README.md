@@ -9,4 +9,4 @@
 
 [DAY 02 - JavaScript Clock](https://github.com/10xOXR/JavaScript30/blob/master/day02/)
 
-[DAY 03 - JavaScript Clock](https://github.com/10xOXR/JavaScript30/blob/master/day03/)
+[DAY 03 - Playing with CSS variables and JS](https://github.com/10xOXR/JavaScript30/blob/master/day03/)
