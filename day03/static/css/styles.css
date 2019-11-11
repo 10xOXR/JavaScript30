@@ -19,6 +19,7 @@
     --blur: 5px;
     --width: 500px;
     --rotate: 0deg;
+    --radius: 0%;
 }
 
 body {
@@ -49,6 +50,8 @@ label {
 }
 
 img {
+    border-radius: var(--radius);
+    /* border-radius: 10%; */
     padding: var(--padding);
     background: var(--base);
     filter: blur(var(--blur));
