@@ -96,12 +96,13 @@ const people = [
 // });
 
 const fifteenCent = inventors.filter((inventor) => inventor.year >= 1500 && inventor.year < 1600);
-
 console.table(fifteenCent);
 
 // Array.prototype.map()
 // 2. Give us an array of the inventors' first and last names
 
+const fullNames = inventors.map(inventor => `${inventor.first} ${inventor.last}`);
+console.log(fullNames);
 
 
 // Array.prototype.sort()
