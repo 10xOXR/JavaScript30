@@ -5,7 +5,7 @@
 <img src="static/img/day03.png" alt="JS Clock" width="700">
 
 
-[All Projects](https://github.com/10xOXR/JavaScript30/blob/master/README.md) | [<< Prev #02](https://github.com/10xOXR/JavaScript30/tree/master/day02) | [Next #04 >>]()
+[All Projects](https://github.com/10xOXR/JavaScript30/blob/master/README.md) | [<< Prev #02](https://github.com/10xOXR/JavaScript30/tree/master/day02) | [Next #04 >>](https://github.com/10xOXR/JavaScript30/tree/master/day04)
 
 ---
 
