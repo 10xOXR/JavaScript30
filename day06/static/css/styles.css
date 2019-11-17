@@ -1,6 +1,6 @@
 html {
     box-sizing: border-box;
-    background: #ffc600;
+    background: #8071d1;
     font-family: 'helvetica neue';
     font-size: 20px;
     font-weight: 200;
@@ -12,13 +12,18 @@ html {
     box-sizing: inherit;
 }
 
+#location-text {
+    text-align: center;
+    color: #fff;
+}
+
 input {
     width: 100%;
     padding: 20px;
 }
 
 .search-form {
-    max-width: 400px;
+    max-width: 500px;
     margin: 50px auto;
 }
 
