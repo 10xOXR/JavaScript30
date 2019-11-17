@@ -14,3 +14,5 @@
 [DAY 04 - Array Cardio: Day 1](https://github.com/10xOXR/JavaScript30/blob/master/day04/)
 
 [DAY 05 - Flex Panel Gallery](https://github.com/10xOXR/JavaScript30/blob/master/day05/)
+
+[DAY 06 - Type Ahead](https://github.com/10xOXR/JavaScript30/blob/master/day06/)
