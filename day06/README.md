@@ -11,6 +11,6 @@
 
 ## Credits
 
-### Media
+### Additional Code
 
-- [--]() - Background
+- [Stack Overflow](https://stackoverflow.com/questions/18883601/function-to-calculate-distance-between-two-coordinates) - Function to calculate distance between two coordinates
