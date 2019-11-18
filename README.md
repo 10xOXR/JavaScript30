@@ -18,3 +18,5 @@
 [DAY 06 - Type Ahead](https://github.com/10xOXR/JavaScript30/blob/master/day06/)
 
 [DAY 07 - Array Cardio: Day 2](https://github.com/10xOXR/JavaScript30/blob/master/day07/)
+
+[DAY 08 - Fun with HTML5 Canvas](https://github.com/10xOXR/JavaScript30/blob/master/day08/)
