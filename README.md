@@ -20,3 +20,5 @@
 [DAY 07 - Array Cardio: Day 2](https://github.com/10xOXR/JavaScript30/blob/master/day07/)
 
 [DAY 08 - Fun with HTML5 Canvas](https://github.com/10xOXR/JavaScript30/blob/master/day08/)
+
+[DAY 09 - Dev Tools Domination](https://github.com/10xOXR/JavaScript30/blob/master/day09/)
