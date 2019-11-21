@@ -22,3 +22,6 @@
 [DAY 08 - Fun with HTML5 Canvas](https://github.com/10xOXR/JavaScript30/blob/master/day08/)
 
 [DAY 09 - Dev Tools Domination](https://github.com/10xOXR/JavaScript30/blob/master/day09/)
+
+[DAY 10 - Hold Shift to Check Multiple Checkboxes](https://github.com/10xOXR/JavaScript30/blob/master/day10/)
+
