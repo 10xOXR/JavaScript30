@@ -25,3 +25,5 @@
 
 [DAY 10 - Hold Shift to Check Multiple Checkboxes](https://github.com/10xOXR/JavaScript30/blob/master/day10/)
 
+[DAY 11 - Custom HTML5 Video Player](https://github.com/10xOXR/JavaScript30/blob/master/day11/)
+
