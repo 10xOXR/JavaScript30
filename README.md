@@ -27,3 +27,5 @@
 
 [DAY 11 - Custom HTML5 Video Player](https://github.com/10xOXR/JavaScript30/blob/master/day11/)
 
+[DAY 12 - Key Sequence Detection](https://github.com/10xOXR/JavaScript30/blob/master/day12/)
+
