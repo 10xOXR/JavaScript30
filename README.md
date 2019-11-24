@@ -29,3 +29,4 @@
 
 [DAY 12 - Key Sequence Detection](https://github.com/10xOXR/JavaScript30/blob/master/day12/)
 
+[DAY 13 - Slide in on Scroll](https://github.com/10xOXR/JavaScript30/blob/master/day13/)
