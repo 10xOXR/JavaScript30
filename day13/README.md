@@ -1,6 +1,6 @@
 # [JavaScript30](https://javascript30.com/)
 
-## **Day 12** - *Slide in on Scroll*
+## **Day 13** - *Slide in on Scroll*
 
 <img src="static/img/day13.png" alt="Day13 Image" width="700">
 
