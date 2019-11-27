@@ -31,4 +31,6 @@
 
 [DAY 13 - Slide in on Scroll](https://github.com/10xOXR/JavaScript30/blob/master/day13/)
 
-[DAY 13 - JavaScript References VS Copying](https://github.com/10xOXR/JavaScript30/blob/master/day14/)
+[DAY 14 - JavaScript References VS Copying](https://github.com/10xOXR/JavaScript30/blob/master/day14/)
+
+[DAY 15 - LocalStorage and Event Delegation](https://github.com/10xOXR/JavaScript30/blob/master/day15/)
