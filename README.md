@@ -34,3 +34,5 @@
 [DAY 14 - JavaScript References VS Copying](https://github.com/10xOXR/JavaScript30/blob/master/day14/)
 
 [DAY 15 - LocalStorage and Event Delegation](https://github.com/10xOXR/JavaScript30/blob/master/day15/)
+
+[DAY 16 - CSS Text Shadow Mouse Move Effect](https://github.com/10xOXR/JavaScript30/blob/master/day16/)
