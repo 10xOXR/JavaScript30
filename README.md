@@ -36,3 +36,5 @@
 [DAY 15 - LocalStorage and Event Delegation](https://github.com/10xOXR/JavaScript30/blob/master/day15/)
 
 [DAY 16 - CSS Text Shadow Mouse Move Effect](https://github.com/10xOXR/JavaScript30/blob/master/day16/)
+
+[DAY 17 - Sorting Band Names without articles](https://github.com/10xOXR/JavaScript30/blob/master/day17/)
