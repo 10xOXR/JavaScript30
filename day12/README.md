@@ -5,7 +5,7 @@
 <img src="static/img/day12.png" alt="Day12 Image" width="700">
 
 
-[All Projects](https://github.com/10xOXR/JavaScript30/blob/master/README.md) | [<< Prev #11](https://github.com/10xOXR/JavaScript30/tree/master/day11) | [Next #13 >>]()
+[All Projects](https://github.com/10xOXR/JavaScript30/blob/master/README.md) | [<< Prev #11](https://github.com/10xOXR/JavaScript30/tree/master/day11) | [Next #13 >>](https://github.com/10xOXR/JavaScript30/tree/master/day13)
 
 ---
 
