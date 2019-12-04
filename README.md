@@ -38,3 +38,5 @@
 [DAY 16 - CSS Text Shadow Mouse Move Effect](https://github.com/10xOXR/JavaScript30/blob/master/day16/)
 
 [DAY 17 - Sorting Band Names without articles](https://github.com/10xOXR/JavaScript30/blob/master/day17/)
+
+[DAY 18 - Tally String Times with Reduce](https://github.com/10xOXR/JavaScript30/blob/master/day18/)
