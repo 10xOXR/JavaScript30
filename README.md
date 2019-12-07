@@ -40,3 +40,5 @@
 [DAY 17 - Sorting Band Names without articles](https://github.com/10xOXR/JavaScript30/blob/master/day17/)
 
 [DAY 18 - Tally String Times with Reduce](https://github.com/10xOXR/JavaScript30/blob/master/day18/)
+
+[DAY 19 - Unreal Webcam Fun](https://github.com/10xOXR/JavaScript30/blob/master/day19/)
