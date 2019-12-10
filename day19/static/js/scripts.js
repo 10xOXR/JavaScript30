@@ -28,12 +28,34 @@ function paintToCanvas() {
 
     return setInterval(() => {
         ctx.drawImage(video, 0, 0, width, height)
-    }, 16);
+        let pixels = ctx.getImageData(0, 0, width, height);
+
+        pixels = redEffect(pixels);
+        ctx.putImageData(pixels, 0, 0);
+    }, 10);
 }
 
 function takePhoto() {
     snap.currentTime = 0;
     snap.play();
+
+    const data = canvas.toDataURL("image/png");
+    const link = document.createElement("a");
+    link.href = data;
+    link.setAttribute("download", "image");
+    link.innerHTML = `<img src="${data}" alt="Webcam Image">`;
+    strip.insertBefore(link, strip.firstChild);
+}
+
+function redEffect(pixels) {
+    for (let i = 0; i < pixels.data.length; i += 4) {
+        pixels.data[i + 0] = pixels.data[i + 0] + 100; // Red
+        pixels.data[i + 1] = pixels.data[i + 1] - 50; // Green
+        pixels.data[i + 2] = pixels.data[i + 2] * 0.5; // Blue
+    }
+    return pixels;
 }
 
 getVideo();
+
+video.addEventListener("canplay", paintToCanvas);
