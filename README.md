@@ -44,3 +44,5 @@
 [DAY 19 - Unreal Webcam Fun](https://github.com/10xOXR/JavaScript30/blob/master/day19/)
 
 [DAY 20 - Native Speech Recognition](https://github.com/10xOXR/JavaScript30/blob/master/day20/)
+
+[DAY 21 - Geolocation based Speedometer and Compass](https://github.com/10xOXR/JavaScript30/blob/master/day21/)
