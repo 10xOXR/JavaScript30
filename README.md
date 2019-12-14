@@ -42,3 +42,5 @@
 [DAY 18 - Tally String Times with Reduce](https://github.com/10xOXR/JavaScript30/blob/master/day18/)
 
 [DAY 19 - Unreal Webcam Fun](https://github.com/10xOXR/JavaScript30/blob/master/day19/)
+
+[DAY 20 - Native Speech Recognition](https://github.com/10xOXR/JavaScript30/blob/master/day20/)
