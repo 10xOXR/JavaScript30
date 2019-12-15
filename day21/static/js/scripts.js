@@ -7,4 +7,3 @@ const arrow = document.querySelector('.arrow');
     }, (err) => {
         console.error(err);
     });
-    
