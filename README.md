@@ -46,3 +46,7 @@
 [DAY 20 - Native Speech Recognition](https://github.com/10xOXR/JavaScript30/blob/master/day20/)
 
 [DAY 21 - Geolocation based Speedometer and Compass](https://github.com/10xOXR/JavaScript30/blob/master/day21/)
+
+[DAY 22 - Follow Along Links](https://github.com/10xOXR/JavaScript30/blob/master/day22/)
+
+[DAY 23 - Speech Synthesis](https://github.com/10xOXR/JavaScript30/blob/master/day23/)
