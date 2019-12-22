@@ -56,6 +56,14 @@ nav {
     position: fixed;
 }
 
+.fixed-nav li.logo {
+    max-width: 100px;
+}
+
+.fixed-nav .site-wrap {
+    transform: scale(1);
+}
+
 nav ul {
     margin: 0;
     padding: 0;
