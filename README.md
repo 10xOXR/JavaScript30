@@ -52,3 +52,5 @@
 [DAY 23 - Speech Synthesis](https://github.com/10xOXR/JavaScript30/blob/master/day23/)
 
 [DAY 24 - Sticky Navbar](https://github.com/10xOXR/JavaScript30/blob/master/day24/)
+
+[DAY 25 - Event Capture, Propagation, Bubbling and Once](https://github.com/10xOXR/JavaScript30/blob/master/day25/)
