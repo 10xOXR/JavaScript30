@@ -1,6 +1,6 @@
 # [JavaScript30](https://javascript30.com/)
 
-## **Day 27** - *Stripe Follow Along Dropdown*
+## **Day 27** - *Click and Drag to Scroll*
 
 <img src="static/img/day27.png" alt="Day27 Image" width="700">
 
