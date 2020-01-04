@@ -54,3 +54,5 @@
 [DAY 24 - Sticky Navbar](https://github.com/10xOXR/JavaScript30/blob/master/day24/)
 
 [DAY 25 - Event Capture, Propagation, Bubbling and Once](https://github.com/10xOXR/JavaScript30/blob/master/day25/)
+
+[DAY 26 - Stripe Follow-along Dropdown](https://github.com/10xOXR/JavaScript30/blob/master/day26/)
