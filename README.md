@@ -61,3 +61,5 @@
 
 [DAY 28 - Video Speed Controller UI](https://github.com/10xOXR/JavaScript30/blob/master/day28/)
 
+[DAY 29 - Countdown Clock](https://github.com/10xOXR/JavaScript30/blob/master/day29/)
+
