@@ -57,5 +57,7 @@
 
 [DAY 26 - Stripe Follow-along Dropdown](https://github.com/10xOXR/JavaScript30/blob/master/day26/)
 
-[DAY 27 - Click and Drag to Scroll](https://github.com/10xOXR/JavaScript30/blob/master/day26/)
+[DAY 27 - Click and Drag to Scroll](https://github.com/10xOXR/JavaScript30/blob/master/day27/)
+
+[DAY 28 - Video Speed Controller UI](https://github.com/10xOXR/JavaScript30/blob/master/day28/)
 
