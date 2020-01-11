@@ -63,3 +63,4 @@
 
 [DAY 29 - Countdown Clock](https://github.com/10xOXR/JavaScript30/blob/master/day29/)
 
+[DAY 30 - Whack a Mole](https://github.com/10xOXR/JavaScript30/blob/master/day30/)
